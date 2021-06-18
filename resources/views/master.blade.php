@@ -19,5 +19,29 @@
     height:500px;
     padding-top:100px;
 }
+.slide-img{
+    height:400px !important;
+}
+.trending-image{
+    height:100px;
+    width:50px;
+}
+.trending-item{
+    float:left;
+    width:20%;
+}
+.trending-wrapper{
+    margin:40px;
+}
+.detail-img{
+    height:200px;
+}
+.search-box{
+    width:500px !important;
+}
+.searching-item{
+    //float:left;
+    width:20%;
+}
 </style>
 </html>
